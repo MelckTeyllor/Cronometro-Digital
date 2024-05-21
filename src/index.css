@@ -5,7 +5,10 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+
+  background: radial-gradient(circle, rgba(255,255,255,1) 40%, rgba(55,0,255,1) 53%, rgba(255,255,255,1) 57%, rgba(255,255,255,1) 70%, rgba(55,0,255,1) 75%, rgba(255,255,255,1) 81%, rgba(255,255,255,1) 86%, rgba(55,0,255,1) 93%, rgba(255,255,255,1) 100%, rgba(55,0,255,1) 100%);
+
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
